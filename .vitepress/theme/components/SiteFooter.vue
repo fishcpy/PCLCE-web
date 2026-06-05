@@ -161,7 +161,7 @@ onMounted(() => (currentYear.value = new Date().getFullYear().toString()));
 .list-title {
   margin-bottom: 0.5em;
   font-weight: 600;
-  font-size: 0.75em;
+  font-size: 0.95em;
   line-height: 1.5;
 }
 
@@ -170,7 +170,7 @@ onMounted(() => (currentYear.value = new Date().getFullYear().toString()));
   padding: 0;
   margin: 0;
   font-weight: 500;
-  font-size: 0.75em;
+  font-size: 0.9em;
   line-height: 2.4;
 }
 
@@ -200,7 +200,7 @@ onMounted(() => (currentYear.value = new Date().getFullYear().toString()));
   display: inline-block;
   margin: 0;
   font-weight: 500;
-  font-size: 0.75em;
+  font-size: 0.9em;
   line-height: 1.6;
 }
 
