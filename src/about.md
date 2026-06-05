@@ -5,7 +5,7 @@ keywords: PCL社区,PCL Community,关于PCL,开源社区
 aside: false
 ---
 
-# PCL Community
+# 关于 PCL Community
 
 非官方的 PCL 社区玩家组织，不代表开发者龙腾猫跃和 PCL 官方。
 
@@ -18,3 +18,20 @@ aside: false
   imageSrc="/img/pclce.png"
   imageAlt="PCL Community"
 />
+
+# 关于本网站
+
+<AboutPage
+  :cards="[
+    { icon: 'mdi:github', title: 'GitHub 开源仓库', description: '查看本网站源代码、提交 Issue 或参与贡献', href: 'https://github.com/PCL-Community/PCL2CE-web' }
+  ]"
+/>
+
+## 关于下载链接
+
+- **GitHub Releases** —— [PCL-Community/PCL2-CE](https://github.com/PCL-Community/PCL2-CE/releases) github官方源
+
+感谢以下用户提供下载加速支持：
+
+- **线路 1** —— [fishcpy](https://github.com/fishcpy) 提供加速服务
+- **线路 2** —— [scfcn](https://github.com/scfcn) 提供加速服务

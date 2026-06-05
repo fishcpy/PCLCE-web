@@ -5,7 +5,7 @@ keywords: PCL Community,PCL About,Open Source Community
 aside: false
 ---
 
-# PCL Community
+# About PCL Community
 
 Unofficial PCL community player organization, does not represent developer LongTengMaoYue and PCL official.
 
@@ -18,3 +18,20 @@ Unofficial PCL community player organization, does not represent developer LongT
   imageSrc="/img/pclce.png"
   imageAlt="PCL Community"
 />
+
+# About this website
+
+<AboutPage
+  :cards="[
+    { icon: 'mdi:github', title: 'GitHub Repository', description: 'View the source code of this website, submit issues or contribute', href: 'https://github.com/PCL-Community/PCL2CE-web' }
+  ]"
+/>
+
+## About download links
+
+- **GitHub Releases** —— [PCL-Community/PCL2-CE](https://github.com/PCL-Community/PCL2-CE/releases) Official GitHub source
+
+Thanks to the following users for providing download acceleration:
+
+- **Line 1** —— [fishcpy](https://github.com/fishcpy) provides acceleration service
+- **Line 2** —— [scfcn](https://github.com/scfcn) provides acceleration service
