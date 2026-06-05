@@ -32,5 +32,11 @@
     "sharp": "^0.34.5",
     "typescript": "~5.9.3",
     "vitepress": "2.0.0-alpha.17"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild",
+      "sharp"
+    ]
   }
 }
