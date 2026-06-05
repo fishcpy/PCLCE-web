@@ -19,5 +19,4 @@ dist-ssr
 .DS_Store
 .vitepress/cache/
 .vitepress/dist/
-pnpm-workspace.yaml
 .DS_Store
